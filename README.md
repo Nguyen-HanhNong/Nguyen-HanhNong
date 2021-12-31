@@ -21,7 +21,7 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
 
 ## Github Stats
 [Stats](https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-HanhNong)
+
 
 
 
