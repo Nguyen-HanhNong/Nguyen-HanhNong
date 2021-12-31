@@ -2,7 +2,7 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Carleton University. I am from Canada and currently full-time in school. You can find me at
+My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Carleton University. I am from Canada and currently full-time in school. You can find me at 
 [![LinkedIn][3.2]][3].
 
 ## 💻 OS
@@ -18,6 +18,14 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Github Stats
+<a href="https://github.com/Nguyen-HanhNong/Nguyen-HanhNong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-HanhNong&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Nguyen-HanhNong/Nguyen-HanhNong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
 
