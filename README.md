@@ -6,4 +6,4 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
 [![LinkedIn][3.2]][3].
 
 ## 🔧 Tools, Technologies and Frameworks
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
