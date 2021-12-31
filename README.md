@@ -20,7 +20,9 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Github Stats
-[Stats](https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nguyen-Hanh's GitHub Stats" />
+</a>
 
 
 
