@@ -20,8 +20,8 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Github Stats
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-HanhNong)]
+[Stats](https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-HanhNong)
 
 
 
