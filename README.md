@@ -23,5 +23,5 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
 
 
 
-
+[3]: https://www.linkedin.com/in/nguyen-hanh-nong/
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
