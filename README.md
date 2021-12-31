@@ -2,8 +2,7 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Carleton University. I am from Canada and currently full-time in school. You can find me at 
-[LinkedIn][3.2][3] and LeetCode[][].
+My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Carleton University. I am from Canada and currently full-time in school. You can find me on ![Leetcode][2.1]][2],  or on [![LinkedIn][1.1]][1].
 
 ## 💻 OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -24,8 +23,16 @@ My name is Nguyen-Hanh Nong and I'm a First-Year Computer Science student at Car
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong&show_icons=true&theme=radical" alt="Nguyen-Hanh's GitHub Stats" />
 </a>
 
-[2]: https://leetcode.com/nguyenhanhnong/
-[3.1]: https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png
 
-[3]: https://www.linkedin.com/in/nguyen-hanh-nong/
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- links to social media icons -->
+
+<!-- icons without padding -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.1]: https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png
+
+<!-- links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/nguyen-hanh-nong/
+[2]: https://leetcode.com/nguyenhanhnong/
+
