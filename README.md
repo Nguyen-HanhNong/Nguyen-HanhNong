@@ -2,7 +2,7 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nguyen-Hanh Nong and I'm a 3rd Year Computer Science student at Carleton University. I am from Canada and am currently full-time in school. You can find me on [LinkedIn][1.1].
+My name is Nguyen-Hanh Nong and I'm a 4th Year Computer Science student at Carleton University. I am from Canada and am currently full-time in school. You can find me on [LinkedIn][1.1].
 
 ## 💻 OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
