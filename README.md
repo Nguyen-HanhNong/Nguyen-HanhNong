@@ -22,8 +22,7 @@ My name is Nguyen-Hanh Nong and I'm a 4th Year Computer Science student at Carle
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Github Stats
-[Nguyen-Hanh Nong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong)](https://github.com/anuraghazra/github-readme-stats)
-
+[[Nguyen-Hanh Nong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-HanhNong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links to social media icons -->
 
